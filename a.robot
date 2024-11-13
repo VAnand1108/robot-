@@ -6,7 +6,7 @@ Library    Collections
 *** Keywords ***
 
 launch the browser
-  log hi
+  LOG  hi
 *** Test Cases ***
 tc01
   launch the browser
